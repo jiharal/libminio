@@ -1,4 +1,4 @@
-module github.com/jiharal/libmonio
+module github.com/jiharal/libminio
 
 go 1.14
 
